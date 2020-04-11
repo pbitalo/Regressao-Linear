@@ -8,3 +8,5 @@ Palavras-chaves: cienciadedados , python , algoritmo , programação , regressao
 Público Alvo: Estudantes e profissionais da área de ciência de dados e afins.
 
 Este método tem como objetivo final realizar previsões de possíveis valores dado a relação/correlação entre variáveis preditoras e variável dependente. Em ciência de dados, esse método é muito utilizado para prever anomalias/registros incomuns.
+
+Acesso via colab: https://colab.research.google.com/github/pbitalo/Regressao-Linear/blob/master/RegressaoLinear.ipynb
